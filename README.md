@@ -1,11 +1,5 @@
-# Remote Monkey Kit
+# TODO LIST REACT
 
-Ce kit inclut des ressources et une architecture prête à l'emploi.
-Ce projet est conçu pour être utilisé comme base pour suivre mes tutoriels vidéo sur YouTube.
-
-## Tutoriel
-
-[Suivre le tutoriel youtube](https://www.youtube.com/watch?v=yFj9JsTlkyg)
 
 ## Prérequis
 
@@ -56,15 +50,6 @@ ou avec Yarn :
 
 **yarn dev**
 
-## Ressources et chaîne YouTube
-
-Pour suivre mes tutoriels vidéo et obtenir plus de ressources et d'astuces sur le développement web, n'hésitez pas à visiter et à vous abonner à ma chaîne YouTube :
-
-[**Chaîne YouTube - Remote Monkey**](https://www.youtube.com/channel/UC-es2x_tfihhkcNlaPQiFPg)
-
-## Problèmes et support
-
-Si vous rencontrez des problèmes ou avez des questions, n'hésitez pas à poser vos questions dans les commentaires des vidéos sur YouTube.
 
 ---
 
